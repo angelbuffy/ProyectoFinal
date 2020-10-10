@@ -1,0 +1,12 @@
+G:\Dev\C# Proyecto Final\CapaDatos\bin\Debug\CapaDatos.dll
+G:\Dev\C# Proyecto Final\CapaDatos\bin\Debug\CapaDatos.pdb
+G:\Dev\C# Proyecto Final\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+G:\Dev\C# Proyecto Final\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+G:\Dev\C# Proyecto Final\CapaDatos\obj\Debug\CapaDatos.dll
+G:\Dev\C# Proyecto Final\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\PROCESOS-PROGRAMA\C# Proyecto Final\CapaDatos\bin\Debug\CapaDatos.dll
+D:\PROCESOS-PROGRAMA\C# Proyecto Final\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROCESOS-PROGRAMA\C# Proyecto Final\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\PROCESOS-PROGRAMA\C# Proyecto Final\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROCESOS-PROGRAMA\C# Proyecto Final\CapaDatos\obj\Debug\CapaDatos.dll
+D:\PROCESOS-PROGRAMA\C# Proyecto Final\CapaDatos\obj\Debug\CapaDatos.pdb
